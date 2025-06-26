@@ -48,7 +48,7 @@ Open terminal in the project root directory and run:
 ./gradlew run
 
 
-📸 Sample Output
+### 📸 Sample Output
 Running Train Booking System
 Choose option
 1. Sign up
@@ -58,5 +58,5 @@ Choose option
 5. Book a Seat
 6. Cancel my Booking
 7. Exit the App
-![image](https://github.com/user-attachments/assets/f98ed002-9b70-42a7-b3a9-346f201b1a60)
+
 
