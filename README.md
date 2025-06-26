@@ -46,9 +46,10 @@ Open terminal in the project root directory and run:
 
 # On Linux/macOS
 ./gradlew run
+```
 
-
-### 📸 Sample Output
+## 📸 Sample Output
+```bash
 Running Train Booking System
 Choose option
 1. Sign up
@@ -58,5 +59,12 @@ Choose option
 5. Book a Seat
 6. Cancel my Booking
 7. Exit the App
+```
+## 🛠️ Future Improvements
+ Add file/database persistence
 
+ Implement seat availability logic
 
+ Add admin features (e.g., add trains)
+
+ Migrate to GUI or web version (optional)
